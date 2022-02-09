@@ -1,0 +1,65 @@
+{
+  "name": "books",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.57",
+    "@progress/kendo-drawing": "^1.9.3",
+    "@progress/kendo-licensing": "^1.1.3",
+    "@progress/kendo-react-animation": "^4.3.0",
+    "@progress/kendo-react-common": "^4.3.0",
+    "@progress/kendo-react-dateinputs": "^4.3.0",
+    "@progress/kendo-react-dropdowns": "^4.3.0",
+    "@progress/kendo-react-form": "^4.3.0",
+    "@progress/kendo-react-inputs": "^4.3.0",
+    "@progress/kendo-react-intl": "^4.3.0",
+    "@progress/kendo-react-treeview": "^4.3.0",
+    "@progress/kendo-react-upload": "^4.3.0",
+    "@progress/kendo-scheduler-react-wrapper": "^2019.4.1014",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.3",
+    "@testing-library/user-event": "^12.6.2",
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "mdbreact": "^5.0.1",
+    "node-modules": "^1.0.1",
+    "node-sass": "^4.14.1",
+    "prettier": "^2.2.1",
+    "react": "^17.0.1",
+    "react-cookie": "^4.0.3",
+    "react-dom": "^17.0.1",
+    "react-hook-form": "^6.15.3",
+    "react-hooks-form": "^2.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-router-hash-link": "^2.3.1",
+    "react-scripts": "4.0.1",
+    "reactstrap": "^8.9.0",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
